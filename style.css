@@ -1,0 +1,28 @@
+.wrapper {
+    display: flex;
+    width: 650px;
+    height: 380px;
+    background-color: red;
+}
+.photo-column {
+    height: 100%;
+    width: 40%;
+    background-color: blue;
+}
+.details-column {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 60%;
+    background-color: orange;
+}
+.name-container {
+    height: 50%;
+    width: 100%;
+    background-color: brown;
+}
+.contact-container {
+    height: 50%;
+    width: 100%;
+    background-color: purple;
+}
