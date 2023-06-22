@@ -21,10 +21,13 @@ body {
 }
 .name-container {
     height: 50%;
-    width: 100%;
     background-color: #192028;
     border-radius: 0 10px 0 0;
     margin-bottom: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
 }
 .contact-container {
     height: 50%;
