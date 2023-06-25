@@ -48,8 +48,7 @@ body {
     color: white;
     font-size: x-large;
 }
-.line1 {
-    border: none;
-    height: 1px;
-    background-color: white;
+.mail {
+    width: 25px;
+    height: 25px;
 }
