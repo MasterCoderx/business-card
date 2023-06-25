@@ -37,22 +37,20 @@ body {
 }
 .name-text {
     color: white;
-    font-size: small;
+    font-size: x-large;
     flex-direction: column;
+    justify-content: center;
 }
 .position {
     display: flex;
-    justify-content: space-between;
-    flex-direction: column;
-    justify-items: flex-end;
-    color: white;
     font-size: x-large;
+    color: #6487A1;
 }
 .address {
     display: flex;
     flex-direction: row;
     color: white;
-    margin-bottom: 1px;
+    margin-bottom: 2px;
     padding-left: 20px;
 }
 .email {
