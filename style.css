@@ -52,14 +52,18 @@ body {
     display: flex;
     flex-direction: row;
     color: white;
+    margin-bottom: 1px;
+    padding-left: 20px;
 }
 .email {
     display: flex;
     flex-direction: row;
     color: white;
+    padding-left: 20px;
 }
 .phone {
     display: flex;
     flex-direction: row;
     color: white;
+    padding-left: 20px;
 }
