@@ -48,7 +48,15 @@ body {
     color: white;
     font-size: x-large;
 }
-.mail {
-    width: 25px;
-    height: 25px;
+.address {
+    display: flex;
+    flex-direction: row;
+}
+.email {
+    display: flex;
+    flex-direction: row;
+}
+.phone {
+    display: flex;
+    flex-direction: row;
 }
