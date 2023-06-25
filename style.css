@@ -51,12 +51,15 @@ body {
 .address {
     display: flex;
     flex-direction: row;
+    color: white;
 }
 .email {
     display: flex;
     flex-direction: row;
+    color: white;
 }
 .phone {
     display: flex;
     flex-direction: row;
+    color: white;
 }
