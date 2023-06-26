@@ -55,16 +55,30 @@ body {
     padding-left: 20px;
     padding-top: 15px;
 }
+p.address-text {
+    border-bottom: 1px solid;
+    width: 100%;
+    border-color: rgba(255, 255, 255, 0.4);
+}
 .email {
     display: flex;
     flex-direction: row;
     color: white;
     padding-left: 20px;
 }
+p.email-text {
+    border-bottom: 1px solid;
+    width: 100%;
+    border-color: rgba(255, 255, 255, 0.4);
+}
 .phone {
     display: flex;
     flex-direction: row;
     color: white;
     padding-left: 20px;
-
+}
+p.phone-text {
+    border-bottom: 1px solid;
+    width: 100%;
+    border-color: rgba(255, 255, 255, 0.4);
 }
