@@ -34,6 +34,7 @@ body {
     width: 100%;
     background-color: #2B3944;
     border-radius: 0 0 10px 0;
+    align-items: center;
 }
 .name-text {
     color: white;
@@ -52,6 +53,7 @@ body {
     color: white;
     margin-bottom: 2px;
     padding-left: 20px;
+    padding-top: 15px;
 }
 .email {
     display: flex;
@@ -64,4 +66,5 @@ body {
     flex-direction: row;
     color: white;
     padding-left: 20px;
+
 }
