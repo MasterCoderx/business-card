@@ -29,20 +29,12 @@ body {
     justify-content: center;
     padding-left: 20px;
 }
-.contact-container {
-    height: 50%;
-    width: 100%;
-    background-color: #2B3944;
-    border-radius: 0 0 10px 0;
-    align-items: center;
-}
 .name-text {
     color: white;
     font-size: x-large;
     flex-direction: column;
     justify-content: center;
     line-height: 8px;
-    padding-top: 20px;
 }
 p.first-name {
     font-size: 29px;
@@ -54,17 +46,24 @@ p.surname {
     font-size: 29px;
     color: #6487A1;
 }
+.contact-container {
+    height: 50%;
+    width: 100%;
+    background-color: #2B3944;
+    border-radius: 0 0 10px 0;
+    align-items: center;
+}
 .address {
     display: flex;
     flex-direction: row;
     color: white;
-    margin-bottom: 2px;
     padding-left: 20px;
-    padding-top: 15px;
 }
 p.address-text {
     border-bottom: 1px solid;
     width: 100%;
+    font-weight: 400;
+    font-size: 20px;
     border-color: rgba(255, 255, 255, 0.4);
 }
 .email {
@@ -76,6 +75,8 @@ p.address-text {
 p.email-text {
     border-bottom: 1px solid;
     width: 100%;
+    font-weight: 400;
+    font-size: 20px;
     border-color: rgba(255, 255, 255, 0.4);
 }
 .phone {
@@ -87,5 +88,7 @@ p.email-text {
 p.phone-text {
     border-bottom: 1px solid;
     width: 100%;
+    font-weight: 400;
+    font-size: 20px;
     border-color: rgba(255, 255, 255, 0.4);
 }
