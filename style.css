@@ -49,11 +49,13 @@ p.surname {
     color: #6487A1;
 }
 .contact-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     height: 50%;
     width: 100%;
     background-color: #2B3944;
     border-radius: 0 0 10px 0;
-    align-items: center;
 }
 .address {
     display: flex;
