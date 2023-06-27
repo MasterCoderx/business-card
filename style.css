@@ -36,7 +36,6 @@ p {
     color: white;
     flex-direction: column;
     justify-content: center;
-    line-height: 8px;
 }
 p.first-name {
     font-size: 29px;
@@ -47,6 +46,7 @@ p.surname {
 .position {
     font-size: 29px;
     color: #6487A1;
+    margin-top: 15px;
 }
 .contact-container {
     display: flex;
