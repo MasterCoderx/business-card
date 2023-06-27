@@ -65,6 +65,7 @@ p.address-text {
     font-weight: 400;
     font-size: 20px;
     border-color: rgba(255, 255, 255, 0.4);
+    margin-left: 10px;
 }
 .email {
     display: flex;
@@ -78,6 +79,7 @@ p.email-text {
     font-weight: 400;
     font-size: 20px;
     border-color: rgba(255, 255, 255, 0.4);
+    margin-left: 10px;
 }
 .phone {
     display: flex;
@@ -91,4 +93,5 @@ p.phone-text {
     font-weight: 400;
     font-size: 20px;
     border-color: rgba(255, 255, 255, 0.4);
+    margin-left: 10px;
 }
